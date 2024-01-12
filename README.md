@@ -49,4 +49,6 @@ To answer these questions using Python, you will need to write a Python script. 
 
 ### Credits
 + pandas docs - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
-+ Udacity - Udacity and their instructors were extremely helpful while I was pursuing this project.
+
+### Author
++ Jen Ballelos
